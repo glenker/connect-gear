@@ -1,0 +1,1 @@
+[{"name": "hello", "mach": "localhost", "cmd": "greet"}, {"name": "getDevice", "mach": "localhost", "cmd": "getDevice"}, {"name": "getDevice2", "mach": "titan", "cmd": "getDevice"}]
