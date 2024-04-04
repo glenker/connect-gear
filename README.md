@@ -3,7 +3,7 @@
 
 ## connect-gear
 
-An interface for finding weird machines in software using D3.js by visualization and accelerating code coverage.
+An interface for finding weird machines in software using D3.js for visualization and accelerating code coverage using GPUs (WIP).
 
 ### Install Dependencies
 
